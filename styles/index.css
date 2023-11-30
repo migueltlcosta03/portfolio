@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+
+.head-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.profile-picture {
+    border-radius: 50%;
+}
+
+.name {
+    color: #6e44ff;
+}
+
+.row > h1 {
+    position: relative;
+    margin-top: 30px;
+    text-align: center;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
